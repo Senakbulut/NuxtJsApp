@@ -68,6 +68,7 @@
     @media (max-width: 500px) {
         .Hero {
             height: 40vh;
+            
         }
     }
 </style>

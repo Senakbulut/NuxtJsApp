@@ -38,4 +38,16 @@
         display: flex;
         justify-content: space-between;
     }
+     @media screen and (min-width:1000px) {
+        .container:nth-child(2){
+            margin-top: 25rem;
+        }
+    }
+    @media screen and (min-width:1600px) {
+        .container:nth-child(2){
+            margin-top: 0;
+        }
+    }
+   
+     
 </style>
